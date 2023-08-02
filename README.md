@@ -1,1 +1,3 @@
 # Object-Area-Calculator
+
+This code defines a main function to receive user input and calculate the area appropriately, as well as routines for calculating the area of each shape. By inputting the corresponding number, the user can select the desired shape. They will then be asked to enter the necessary numbers. In the console, the calculated area will be seen. Entering '0' will end the application for the user.
